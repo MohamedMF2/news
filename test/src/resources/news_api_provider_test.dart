@@ -1,4 +1,4 @@
-import 'package:news/src/resources/news_Api_provider.dart';
+import 'package:news/src/resources/news_api_provider.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'dart:convert';
 import 'package:http/http.dart';
